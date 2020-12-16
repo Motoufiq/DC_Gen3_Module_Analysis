@@ -7,3 +7,9 @@ RcisTarget identifies transcription factor binding motifs (TFBS) over-represente
 For additional details, refer:
 1. https://pubmed.ncbi.nlm.nih.gov/28991892/
 2. https://www.bioconductor.org/packages/release/bioc/html/RcisTarget.html (OR) https://www.bioconductor.org/packages/devel/bioc/vignettes/RcisTarget/inst/doc/RcisTarget.html
+
+
+**Note: 
+For some of the module list, we experience the below error:
+Error in .RcisTarget_calcAUC(geneSets = geneSets, rankings = rankings,  : 
+  Fewer than 80% of the genes/features in the gene-sets are included in the rankings.Check wether the IDs in the 'rankings' (columns) and 'geneSets' match.
