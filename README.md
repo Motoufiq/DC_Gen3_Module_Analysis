@@ -10,6 +10,6 @@ For additional details, refer:
 
 
 **Note: 
-For some of the module list, we experience the below error:
+There are some cases where RcisTarget does not output the results if the Gene Symbols identifier in the a particular module does not match with the motif database.  We experience the below error:
 Error in .RcisTarget_calcAUC(geneSets = geneSets, rankings = rankings,  : 
   Fewer than 80% of the genes/features in the gene-sets are included in the rankings.Check wether the IDs in the 'rankings' (columns) and 'geneSets' match.
