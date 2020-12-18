@@ -9,8 +9,11 @@ For additional details, refer:
 2. https://www.bioconductor.org/packages/release/bioc/html/RcisTarget.html (OR) https://www.bioconductor.org/packages/devel/bioc/vignettes/RcisTarget/inst/doc/RcisTarget.html
 
 
-**Note: 
-There are some cases where RcisTarget does not output the results if the Gene Symbols identifier in the a particular module does not match with the motif database.  We experience the below error:
+Note:
+1. The RcisTarget R script was ran on 382 modules. Out of this 235 module list ran successfully, 147 module list failed to run (due to the  mismatch between the Gene Symbol identifier column of the particular module did not match with the loaded motif database).  See error below.
+2. To view the results of the RcisTarget. Click here: 
+
+
 Error in .RcisTarget_calcAUC(geneSets = geneSets, rankings = rankings,  : 
   Fewer than 80% of the genes/features in the gene-sets are included in the rankings.Check wether the IDs in the 'rankings' (columns) and 'geneSets' match.
   
