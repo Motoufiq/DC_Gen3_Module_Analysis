@@ -20,7 +20,7 @@ Module Table:
 
 | Module ID | Aggregate   Number | Module   Annotation               | Number of unique   genes | RcisTarget Results |
 |-----------|--------------------|-----------------------------------|--------------------------|--------------------|
-| M3.1      |         A29        | Cell cycle                        | 106                      |                    |
+| M3.1      |         A29        | Cell cycle                        | 106                      |     No Result      |
 | M8.1      |         A29        | TBD                               | 51                       |                    |
 | M8.2      |         A34        | Prostanoids                       | 36                       |                    |
 | M8.3      |         A28        | Type 1 Interferon                 | 17                       |                    |
