@@ -11,7 +11,7 @@ For additional details, refer:
 
 Note:
 1. The RcisTarget R script was ran on 382 modules. Out of this 235 module list ran successfully, 147 module list failed to run (due to the  mismatch between the Gene Symbol identifier column of the particular module did not match with the loaded motif database).  See error below.
-2. To view the results of the RcisTarget. Click here: 
+2. To view the results of the RcisTarget. Click here: https://github.com/Motoufiq/DC_Gen3_Module_Analysis/blob/main/Module_List.md
 
 
 Error in .RcisTarget_calcAUC(geneSets = geneSets, rankings = rankings,  : 
