@@ -1,4 +1,4 @@
-**RcisTarget R Package: Transcription factor binding motif enrichment**
+## RcisTarget R Package: Transcription factor binding motif enrichment
 
 RcisTarget identifies transcription factor binding motifs (TFBS) over-represented on a gene list. In a first step, RcisTarget selects DNA motifs that are significantly over-represented in the surroundings of the transcription start site (TSS) of the genes in the gene-set. This is achieved by using a database that contains genome-wide cross-species rankings for each motif. The motifs that are then annotated to TFs and those that have a high Normalized Enrichment Score (NES) are retained. Finally, for each motif and gene-set, RcisTarget predicts the candidate target genes (i.e. genes in the gene-set that are ranked above the leading edge). For additional details about RcisTarget package, please refer [Reference Paper 1](https://pubmed.ncbi.nlm.nih.gov/28991892/), [R Package 1](https://www.bioconductor.org/packages/release/bioc/html/RcisTarget.html), and [R Package 1 vignettes](https://www.bioconductor.org/packages/devel/bioc/vignettes/RcisTarget/inst/doc/RcisTarget.html
 )
