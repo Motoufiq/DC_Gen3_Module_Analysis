@@ -11,9 +11,9 @@ Brief instructions about application of the RcisTarget package on Generation 3 M
 
 3. The output data of the analysis is Motif_Enrichment_AUC_Histogram_Plot.pdf, Best_Enrichment_Motifs_NES_Plot.pdf,  motifEnrichmentTable.csv, motifEnrichmentTable_wGenes.csv, Motif_data_table.html, and Network.html. For more details about the interpretation of the outputs of the RcisTarget package, refer the documentation link provided above.
    
-   *All the plots and csv files can be opened by a simple left click and viewed, however, Motif_data_table.html and Network.html cannot be viewed by a simple left click. To view the interactive Motif data table and Network for appropriate module, click on the visualize_interactive_motif_data_table and Visualize_Interactive_Network links to view the html contents*
+   *  *All the plots and csv files can be opened by a simple left click and viewed, however, Motif_data_table.html and Network.html cannot be viewed by a simple left click. To view the interactive Motif data table and Network for appropriate module, click on the visualize_interactive_motif_data_table and Visualize_Interactive_Network links to view the html contents*
    
-   *Best_Enrichment_Motifs_NES_Plot.pdf and Network.html outputs are only the subset data (just considering the top 3 best motif enrichments) because of the size of the output files and storage issues. However, it is also possible to include all data as well*
+   *  *Best_Enrichment_Motifs_NES_Plot.pdf and Network.html outputs are only the subset data (just considering the top 3 best motif enrichments) because of the size of the output files and storage issues. However, it is also possible to include all data as well*
    
 4. In summary, outputs were obtained for a total of 235 modules successfully, however, 147 modules failed to run (due to non-matching Gene Symbol identifier between the input file and motif database). Hence, no results will be found here.
 
