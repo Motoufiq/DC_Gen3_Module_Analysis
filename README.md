@@ -16,3 +16,35 @@ The RcisTarget R script was applied on 382 modules [Ref](https://www.biorxiv.org
 
 
 Module Table:
+
+| Module ID | Aggregate   Number | Module   Annotation         | Number of unique   genes | RcisTarget   Result                                                                                  |
+|-----------|--------------------|-----------------------------|--------------------------|------------------------------------------------------------------------------------------------------|
+| M3.1      |         A29        | Cell cycle                  | 106                      | No Result                                                                                            |
+| M8.1      |         A29        | TBD                         | 51                       | No Result                                                                                            |
+| M8.2      |         A34        | Prostanoids                 | 36                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M8.2%20)   |
+| M8.3      |         A28        | Type 1 Interferon           | 17                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M8.3%20)   |
+| M9.1      |         A2         | Cytotoxic lymphocytes       | 28                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M9.1%20)   |
+| M9.2      |         A37        | Erythrocytes                | 30                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M9.2%20)   |
+| M10.1     |         A28        | Interferon                  | 21                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M10.1%20)  |
+| M10.2     |         A9         | Protein synthesis           | 19                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M10.2%20)  |
+| M10.3     |         A34        | Platelet                    | 20                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M10.3%20)  |
+| M10.4     |         A38        | Neutrophil activation       | 13                       | No Result                                                                                            |
+| M11.1     |         A1         | Protein synthesis           | 46                       | No Result                                                                                            |
+| M11.2     |         A37        | TBD                         | 39                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M11.2%20)  |
+| M11.3     |         A37        | Erythrocytes                | 24                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M11.3%20)  |
+| M11.4     |         A37        | TBD                         | 26                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M11.4%20)  |
+| M12.1     |         A1         | Protein modification        | 111                      | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.1%20)  |
+| M12.2     |         A26        | Monocytes                   | 44                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.2%20)  |
+| M12.3     |         A1         | Cell cycle                  | 70                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.3%20)  |
+| M12.4     |         A2         | Gene transcription          | 62                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.4%20)  |
+| M12.5     |         A3         | Protein modification        | 91                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.5%20)  |
+| M12.6     |         A1         | T cells                     | 33                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.6%20)  |
+| M12.7     |         A1         | Protein synthesis           | 35                       | No Result                                                                                            |
+| M12.8     |         A1         | B cells                     | 26                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.8%20)  |
+| M12.9     |         A38        | Protein   phosphorylation   | 42                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.9%20)  |
+| M12.10    |         A35        | Inflammation                | 53                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.10%20) |
+| M12.11    |         A37        | Erythrocytes                | 24                       | No Result                                                                                            |
+| M12.12    |         A25        | Oxidative stress            | 31                       | No Result                                                                                            |
+| M12.13    |         A24        | Oxidative   phosphorylation | 47                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.13%20) |
+| M12.14    |         A29        | TBD                         | 20                       | No Result                                                                                            |
+| M12.15    |         A27        | Cell cycle                  | 17                       | [Link](https://github.com/Motoufiq/DC_Gen3_Module_Analysis/tree/main/RcisTarget_Output_v1/M12.15%20) |
