@@ -1,15 +1,14 @@
 **RcisTarget R Package: Transcription factor binding motif enrichment**
 
-RcisTarget identifies transcription factor binding motifs (TFBS) over-represented on a gene list. In a first step, RcisTarget selects DNA motifs that are significantly over-represented in the surroundings of the transcription start site (TSS) of the genes in the gene-set. This is achieved by using a database that contains genome-wide cross-species rankings for each motif. The motifs that are then annotated to TFs and those that have a high Normalized Enrichment Score (NES) are retained. Finally, for each motif and gene-set, RcisTarget predicts the candidate target genes (i.e. genes in the gene-set that are ranked above the leading edge).
-
-For additional details about RcisTarget package, please refer [Reference Paper 1](https://pubmed.ncbi.nlm.nih.gov/28991892/), [R Package 1](https://www.bioconductor.org/packages/release/bioc/html/RcisTarget.html), and [R Package 1 vignettes](https://www.bioconductor.org/packages/devel/bioc/vignettes/RcisTarget/inst/doc/RcisTarget.html
+RcisTarget identifies transcription factor binding motifs (TFBS) over-represented on a gene list. In a first step, RcisTarget selects DNA motifs that are significantly over-represented in the surroundings of the transcription start site (TSS) of the genes in the gene-set. This is achieved by using a database that contains genome-wide cross-species rankings for each motif. The motifs that are then annotated to TFs and those that have a high Normalized Enrichment Score (NES) are retained. Finally, for each motif and gene-set, RcisTarget predicts the candidate target genes (i.e. genes in the gene-set that are ranked above the leading edge). For additional details about RcisTarget package, please refer [Reference Paper 1](https://pubmed.ncbi.nlm.nih.gov/28991892/), [R Package 1](https://www.bioconductor.org/packages/release/bioc/html/RcisTarget.html), and [R Package 1 vignettes](https://www.bioconductor.org/packages/devel/bioc/vignettes/RcisTarget/inst/doc/RcisTarget.html
 )
 
-Note:
+Brief instructions about application of the RcisTarget package on Generation 3 Modules
+
 1. The RcisTarget R script was applied on all 382 modules Generation 3 modules[Reference Paper 2](https://www.biorxiv.org/content/10.1101/525709v2) using the default settings. 
-2. The input data is .txt files containing Gene Symbols column as mandatory.
-3. The output data of the analysis is Motif_Enrichment_AUC_Histogram_Plot.pdf, Best_Enrichment_Motifs_NES_Plot.pdf,  motifEnrichmentTable.csv, motifEnrichmentTable_wGenes.csv, Motif_data_table.html, and Network.html. Note: All the plots and csv files can be opened by a simple left click and viewed, however, Motif_data_table.html and Network.html cannot be viewed by a simple left click. To view the Motif data table and Network of appropriate module, click on the visualize_interactive_motif_data_table and Visualize_Interactive_Network links to view the html contents.
-4. The outputs were obtained for 235 modules successfully, however, 147 modules failed to run (due to non-matching Gene Symbols identifier between the input file and motif database).
+2. The input data is the .txt files containing Gene Symbol column as mandatory.
+3. The output data of the analysis is Motif_Enrichment_AUC_Histogram_Plot.pdf, Best_Enrichment_Motifs_NES_Plot.pdf,  motifEnrichmentTable.csv, motifEnrichmentTable_wGenes.csv, Motif_data_table.html, and Network.html. For more details about the interpretation of the outputs of the RcisTarget package, refer the documentation link provided above. Note: All the plots and csv files can be opened by a simple left click and viewed, however, Motif_data_table.html and Network.html cannot be viewed by a simple left click. To view the interactive Motif data table and Network for appropriate module, click on the visualize_interactive_motif_data_table and Visualize_Interactive_Network links to view the html contents.
+4. In summary, outputs were obtained for a total of 235 modules successfully, however, 147 modules failed to run (due to non-matching Gene Symbol identifier between the input file and motif database). Hence, no results will be found here.
 
 
 
