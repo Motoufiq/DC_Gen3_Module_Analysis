@@ -1,5 +1,5 @@
 title: Generation 3 Modules
-description: Annotation modules provided by RcisTarget
+description: Application of RcisTarget (an R package to analyze Transcription factor binding motif enrichment) on Generation 3 Modules
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
