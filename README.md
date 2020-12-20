@@ -14,13 +14,13 @@ RcisTarget identifies transcription factor binding motifs (TFBS) over-represente
 
 2. The input data are *.txt files containing Gene Symbol column as mandatory.
 
-3. The output data (see table below) of this analysis is Motif_Enrichment_AUC_Histogram_Plot.pdf, Best_Enrichment_Motifs_NES_Plot.pdf,  motifEnrichmentTable.csv, motifEnrichmentTable_wGenes.csv, Motif_data_table.html, and Network.html. For more details about the interpretation of the outputs of the RcisTarget R package, refer the documentation link provided above.
+3. The output data (see table below) of this analysis is Motif_Enrichment_AUC_Histogram_Plot.pdf, Best_Enrichment_Motifs_NES_Plot.pdf,  motifEnrichmentTable.csv, motifEnrichmentTable_wGenes.csv, Motif_data_table.html, and Network.html. For more details about the outputs (plots, data tables, refer the documentation link provided above.
    
    Note:
    
    *  *All the plots and csv files can be opened by a simple left click and viewed in RcisTarget Full Data Analysis column (see below), however, Motif_data_table.html and Network.html cannot be viewed by a simple left click. To view the interactive Motif data table and Network for the appropriate module, click on the link under each column provided below*
    
-   *  *Best_Enrichment_Motifs_NES_Plot.pdf and Network.html outputs are only the outputs of subset data (considering the top 3 best motif enrichments). This is because the size of the output files and limitation of storage. However, it is worth noting it is possible to include all motifs while performing the analysis*
+   *  *Best_Enrichment_Motifs_NES_Plot.pdf and Network.html outputs are only the outputs of subset data (considering the top 3 best motif enrichments). This is because the size of the output files and limitation of storage space. However, it is worth noting it is possible to include all motifs while performing the analysis. This generates larger data files, requires more storage space and more computation*
    
 4. In summary, from RcisTarget analysis, outputs were obtained for a total of 235 modules successfully, however, 147 modules failed to run (due to non-matching Gene Symbol identifier between the input file and motif database). Hence, no results will be found for these modules.
 
