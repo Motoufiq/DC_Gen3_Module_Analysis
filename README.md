@@ -26,7 +26,7 @@ RcisTarget identifies transcription factor binding motifs (TFBS) over-represente
 
 
 
-**Module1 Analysis Result Table**
+**Module Analysis Result Table**
 
 
 | Module ID |         Module Annotation         | Number of unique   genes |                                    RcisTarget- Full   Analysis Data                                   |                                          RcisTarget- Motif   Data Table                                          |                                      RcisTarget-   Network Analysis                                     |
