@@ -14,7 +14,7 @@ RcisTarget identifies transcription factor binding motifs (TFBS) over-represente
 
 2. The input data are *.txt files containing Gene Symbol column as mandatory.
 
-3. The output data (see table below) of this analysis is Motif_Enrichment_AUC_Histogram_Plot.pdf, Best_Enrichment_Motifs_NES_Plot.pdf,  motifEnrichmentTable.csv, motifEnrichmentTable_wGenes.csv, Motif_data_table.html, and Network.html. For more details about the outputs (plots, data tables, refer the documentation link provided above.
+3. The output data (see table below) of this analysis is Motif_Enrichment_AUC_Histogram_Plot.pdf, Best_Enrichment_Motifs_NES_Plot.pdf,  motifEnrichmentTable.csv, motifEnrichmentTable_wGenes.csv, Motif_data_table.html, and Network.html. For more details about the outputs (plots, data tables), refer the documentation link provided above.
    
    Note:
    
