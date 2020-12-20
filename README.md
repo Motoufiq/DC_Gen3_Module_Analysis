@@ -18,7 +18,7 @@ RcisTarget identifies transcription factor binding motifs (TFBS) over-represente
    
    Note:
    
-   *  *All the plots and csv files can be opened by a simple left click and viewed in RcisTarget Full Data Analysis column (see below), however, Motif_data_table.html and Network.html cannot be viewed by a simple left click. To view the interactive Motif data table and Network for the appropriate module, click on the link under each column provided below*
+   *  *All the plots and csv files can be opened by a simple left click and viewed in RcisTarget Advanced Data Analysis column (see below), however, Motif_data_table.html and Network.html cannot be viewed by a simple left click. To view the interactive Motif data table and Network for the appropriate module, click on the link under each column provided below*
    
    *  *Best_Enrichment_Motifs_NES_Plot.pdf and Network.html outputs are only the outputs of subset data (considering the top 3 best motif enrichments). This is because the size of the output files and limitation of storage space. However, it is worth noting it is possible to include all motifs while performing the analysis. This generates larger data files, requires more storage space and more computation*
    
