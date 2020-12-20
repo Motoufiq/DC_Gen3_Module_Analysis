@@ -1,5 +1,6 @@
 title: Transcription factor binding motif enrichment analysis of Generation 3 Modules using RcisTarget R package
 description: Chaussabel's Lab
 theme: jekyll-theme-cayman
+main_width: 0.4
 github:
   is_project_page: false
